@@ -20,6 +20,7 @@
 - 🎓 **Engenharia de Computação** – UNIVESP (cursando)
 - 🎓 **Bacharelado em Tecnologia da Informação - Enfase em IoT** – UNIVESP (cursando)
 - 🎓 **MBA em Big Data e Inteligência Competitiva** – Descomplica
+- 🎓 **Lato Sensu em Análise e Desenvolvimento de Programas** - Descomplica
 - 🎓 **MBA em Engenharia de Produção** – UNINTER
 - 🎓 **Tecnólogo em Logística** – FATEC
 - 🎓 **Técnico em Química** – Primeiro de Maio
