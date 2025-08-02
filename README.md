@@ -29,7 +29,7 @@
 
 ## 🧠 Habilidades Técnicas
 
-- **Linguagens e Ferramentas:** Java, C++, Git, GitHub, Power BI, SAP, Office
+- **Linguagens e Ferramentas:** Java, Javascript, C#, C++, Git, GitHub, Power BI, SAP, Office
 - **Metodologias:** Scrum, CEP, MSA
 - **Certificações ISO:** 17025, 14001, 9001
 - **Idiomas:** Inglês (leitura intermediária)
@@ -41,7 +41,7 @@
 🔗 **Perfil na DIO**: [@danilofaria9](https://www.dio.me/users/danilofaria9)
 
 Atualmente participando de bootcamps e formações práticas em:
-- Desenvolvimento Java e C++
+- Desenvolvimento Java, Javascript, C# e C++
 - Engenharia de Dados e Big Data
 - Fundamentos de Inteligência Artificial (IBM)
 
